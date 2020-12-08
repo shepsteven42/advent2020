@@ -1,4 +1,4 @@
-l,p=[int(x) for x in open("i.t").read().split()],print
+l,p=[int(x) for x in open("i.t")],print
 for i in l:
 	for j in [t for t in l if t==2020-i]:
 		p(i*j)
