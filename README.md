@@ -12,5 +12,5 @@ Will be coding in Python3 and optimizing solutions for minimum character count (
 | 4       | 564   |
 | 5       | 134   |
 |---------|-------|
-| Total   | 1332  |
-| Average | 266.4 |
+| Total   | 1293  |
+| Average | 258.6 |
