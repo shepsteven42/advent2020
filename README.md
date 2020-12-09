@@ -7,10 +7,10 @@ Will be coding in Python3 and optimizing solutions for minimum character count (
 | Day     | Score |
 |:-------:|:-----:|
 | 1       | 135   |
-| 2       | 202   |
+| 2       | 201   |
 | 3       | 190   |
 | 4       | 564   |
 | 5       | 134   |
 |---------|-------|
-| Total   | 1225  |
-| Average | 245.0 |
+| Total   | 1224  |
+| Average | 244.8 |
