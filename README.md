@@ -6,11 +6,12 @@ Will be coding in Python3 and optimizing solutions for minimum character count (
 
 | Day     | Score |
 |:-------:|:-----:|
-| 1       | 134   |
-| 2       | 201   |
-| 3       | 169   |
-| 4       | 564   |
-| 5       | 134   |
+|1|134|
+|2|201|
+|3|169|
+|4|564|
+|5|134|
+|6|150|
 |---------|-------|
-| Total   | 1202  |
-| Average | 240.4 |
+| Total | 1352|
+| Average | 225.33|
