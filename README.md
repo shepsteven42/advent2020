@@ -8,7 +8,7 @@ Will be coding in Python3 and optimizing solutions for minimum character count (
 |:-:|:-:|
 |1|134|
 |2|201|
-|3|169|
+|3|162|
 |4|564|
 |5|134|
 |6|150|
@@ -17,5 +17,5 @@ Will be coding in Python3 and optimizing solutions for minimum character count (
 |9|219|
 |10|188|
 |---------|-------|
-| Total | 2474|
-| Average | 247.4|
+| Total | 2467|
+| Average | 246.7|
