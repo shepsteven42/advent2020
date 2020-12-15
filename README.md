@@ -12,9 +12,10 @@ Will be coding in Python3 and optimizing solutions for minimum character count (
 |4|564|
 |5|134|
 |6|150|
-|7|297|
+|7|422|
 |8|293|
 |9|219|
+|10|188|
 |---------|-------|
-| Total | 2161|
-| Average | 240.11|
+| Total | 2474|
+| Average | 247.4|
